@@ -11,7 +11,7 @@ namespace DemoHostAzureApi.Controllers
         [HttpGet]
         public string Hello()
         {
-            return "Hello Guy";
+            return "Hello Class";
         }
 
         [HttpPost]
